@@ -1,0 +1,10 @@
+
+public class Knight extends Postac{
+
+	void walcz(){
+		System.out.println("fight Knight");
+	}
+void speak(){
+		System.out.println("speak Knight");
+	}
+}

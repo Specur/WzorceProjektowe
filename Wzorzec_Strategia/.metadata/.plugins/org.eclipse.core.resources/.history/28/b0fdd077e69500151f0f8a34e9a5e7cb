@@ -1,0 +1,11 @@
+
+public class Troll extends Postac{
+	
+	void walcz(){
+		System.out.println("fight Troll");
+	}
+	void speak(){
+		System.out.println("speak Troll");
+	}
+
+}

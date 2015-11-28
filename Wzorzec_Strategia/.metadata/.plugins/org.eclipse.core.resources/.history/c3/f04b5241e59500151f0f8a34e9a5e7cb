@@ -1,0 +1,15 @@
+
+public class Strategy {
+	
+	
+	
+	
+	public static void main(String []args){
+		
+		Postac knight = new Knight();
+		knight.speak();
+		knight.changeWeapon(new Machete());
+		knight.walcz();
+	}
+
+}
